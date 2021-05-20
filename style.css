@@ -6,7 +6,11 @@
 /*---typography---*/
 body{
     font-family: 'Newsreader', serif;
+    margin:0px;
  
+}
+hr{
+    margin:2rem 0rem;
 }
 /*---containers--*/
 .container_fluid{
@@ -95,5 +99,5 @@ body{
 }
 .footer_class .link{
     color:white;
-    padding-inline-start: 0px;
+    padding-inline-start: 03wpx;
 }
