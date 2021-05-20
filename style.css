@@ -47,7 +47,7 @@ hr{
 .navigator{
     background-color: var(--primary_color);
     color:white;
-    padding:0.7rem;
+    padding:0.5rem;
     border-top-right-radius: 0.5rem;
     border-bottom-left-radius:0.5rem;
 }
