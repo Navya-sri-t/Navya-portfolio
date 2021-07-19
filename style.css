@@ -59,7 +59,9 @@ hr{
     color:white;
 }
 .navigator .nav-pills{
-    text-align:center;
+    display:flexbox;
+    justify-content: space-evenly;
+    text-align: right;
 }
 .navigator .link-active{
     font-weight:bold;
